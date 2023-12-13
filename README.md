@@ -3,6 +3,9 @@
 
 **Sample React Native application demonstrating how to make a POST API call using JSON Server.**
 
+## Demo
+![Demo GIF](./assets/demo.gif)
+
 ## Table of Contents
 
 1. [Description](#description)

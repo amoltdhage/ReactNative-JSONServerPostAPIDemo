@@ -21,9 +21,9 @@ const App = () => {
     console.warn("test");
 
     const data = {
-      name: "Amol D",
+      name: "Amol Dhage",
       age: 31,
-      email: "amolD@test.com"
+      email: "amoldhage@test.com"
     };
     const url = "http://127.0.0.1:3000/users";
     let result = await fetch(url, {
