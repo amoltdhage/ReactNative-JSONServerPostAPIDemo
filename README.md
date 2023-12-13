@@ -44,25 +44,6 @@ This React Native application showcases a simple form of making a POST API call 
     npm install
     ```
 
-## Usage
-
-Run the application on an emulator or a physical device:
-
-```bash
-npx react-native run-android
-# or
-npx react-native run-ios
-
-
-
-
-
-
-
-
-
-
-
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
