@@ -13,8 +13,6 @@
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [API Server](#api-server)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Description
 
@@ -37,7 +35,7 @@ This React Native application showcases a simple form of making a POST API call 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/JSONServerPostAPIDemo.git
+    git clone https://github.com/amoltdhage/ReactNative-JSONServerPostAPIDemo.git
     ```
 
 2. **Install dependencies:**
