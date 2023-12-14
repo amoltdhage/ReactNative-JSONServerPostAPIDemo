@@ -4,9 +4,11 @@
 **Sample React Native application demonstrating how to make a POST API call using JSON Server.**
 
 ## Demo
+
 <p align="center">
-  <img src="./assets/demo.gif" width="400" alt="Demo GIF">
+  <img src="./assets/demo.gif" width="250" alt="Demo GIF">
 </p>
+
 
 ## Table of Contents
 
